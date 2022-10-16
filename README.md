@@ -31,9 +31,9 @@ revenue_adj : Revenue
 * Is a higher movie rating (average vote) related to movie budget?
 
 ### Packages
-''' 
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-'''
+
+* _Numpy_
+* _Pandas_
+* _Matplotlib_
+* _Seaborn_
+
